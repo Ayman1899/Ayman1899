@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi I'm Ayman 👋
 
-<!--
-**Ayman1899/Ayman1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-mohammed-67b294262/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayman159951@gmail.com)
 
-Here are some ideas to get you started:
+I'm a backend developer who is passionate about building robust systems and scalable APIs to power modern applications.  
+Technologies I enjoy working with include *Node.js, **Express.js, **NestJS, **MongoDB, **MySQL, and **Redis*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I have a few live projects:
+- *API for DevCompanion*
+- *E-commerce backend* (with JWT, payment integration)
+- *Job Search App* – a backend for job seekers and recruiters with advanced filtering and authentication
+
+
+💬 Ask me about *Node.js, **NestJS, **API Design, and **Backend Architecture*
